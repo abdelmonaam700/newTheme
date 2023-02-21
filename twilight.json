@@ -684,7 +684,22 @@
             "title": "banner-full-width",
             "icon": "sicon-store",
             "path": "home.fixed-banner-full-width",
-            "fields": []
+            "fields": [
+                {
+                    "id": "code",
+                    "key": "a38e924c-5368-4ed4-90bf-6294902589b3",
+                    "type": "string",
+                    "format": "code",
+                    "label": "Code",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "body { color: green; }",
+                    "icon": "sicon-browser-code",
+                    "value": null,
+                    "required": false,
+                    "defaulted": true
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
